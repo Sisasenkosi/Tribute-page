@@ -1,0 +1,29 @@
+body {
+  padding: 10px;
+  background-color: #e8e8e8;
+}
+
+#title {
+  font-size: 2.8rem;
+}
+#img-caption {
+  font-family: 'AmstelvarAlpha';
+  font-style: italic;
+}
+
+#image {
+  width: 600px;
+  height: auto;
+  display: block;
+  max-width: 100%;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+ul {
+  text-align: left;
+  line-height: 1.5;
+}
+li {
+  margin: 14px 0;
+}
